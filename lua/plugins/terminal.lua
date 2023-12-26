@@ -1,4 +1,4 @@
-if true return {}
+if true then return {} end
 
 return {
   {
